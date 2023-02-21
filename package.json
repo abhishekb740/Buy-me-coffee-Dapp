@@ -1,0 +1,22 @@
+{
+  "name": "buymecoffee",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.1",
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "ethereum-waffle": "^3.4.4",
+    "hardhat": "^2.12.6"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "truffle": "^5.7.3"
+  }
+}
